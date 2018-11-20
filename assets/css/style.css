@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url(../images/maze.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div {
+    white-space: pre;
+    letter-spacing: 18px;
+    font-size: 50px;
+}
